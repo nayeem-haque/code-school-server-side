@@ -23,4 +23,11 @@
     "image": "https://miro.medium.com/max/1400/0*ZD_0t2oRV-vxiP61.png",
     "details": "Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy."
   },
+  {
+    "id": "05",
+    "name": "Blockchain Dev.",
+    "image": "https://miro.medium.com/max/1200/1*eyc8JQm1-tiGx8QxDgYwkw.png",
+    "details": "A blockchain is a decentralized ledger of all transactions across a peer-to-peer network. Using this technology, participants can confirm transactions without a need for a central clearing authority. Potential applications can include fund transfers, settling trades, voting and many other issues."
+  },
+
 ]
