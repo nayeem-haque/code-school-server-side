@@ -29,5 +29,11 @@
     "image": "https://miro.medium.com/max/1200/1*eyc8JQm1-tiGx8QxDgYwkw.png",
     "details": "A blockchain is a decentralized ledger of all transactions across a peer-to-peer network. Using this technology, participants can confirm transactions without a need for a central clearing authority. Potential applications can include fund transfers, settling trades, voting and many other issues."
   },
+  {
+    "id": "06",
+    "name": "UI/UX Design",
+    "image": "https://miro.medium.com/max/1050/1*hp-yfKsmzsj711iLbM8eEw.jpeg",
+    "details": "User interface (UI) design refers to the aesthetic elements by which people interact with a product, such as buttons, icons, menu bars, typography, colors, and more. User experience (UX) design refers to the experience a user has when interacting with a product."
+  }
 
 ]
